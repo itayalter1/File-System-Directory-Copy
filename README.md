@@ -1,4 +1,3 @@
-כמובן! הנה הגרסה שאתה יכול להעתיק ישירות לקובץ `README.md` שלך:
 
 # File System Directory Copy
 
@@ -10,6 +9,16 @@ This project implements a recursive directory copy mechanism using C for file sy
 - Handles all file types within the directory, including regular files and subdirectories.
 - Preserves the directory structure during the copy process.
 - Works with standard file system operations in C.
+
+## How to Download the Project
+
+To download this project, you can clone the Git repository using the following command:
+
+```bash
+git clone https://github.com/itayalter1/File-System-Directory-Copy.git
+```
+
+This will create a local copy of the repository on your machine.
 
 ## How to Compile
 
@@ -61,4 +70,3 @@ For questions or suggestions, feel free to reach out:
 - **GitHub:** [itayalter1](https://github.com/itayalter1)
 ```
 
-העתק את התוכן הזה ושים אותו בקובץ `README.md` בפרויקט שלך.
